@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'HSIO DualCam GSG'
+copyright = '2023, Avnet'
+author = 'Tom Curran'
 
 release = '0.1'
 version = '0.1.0'
