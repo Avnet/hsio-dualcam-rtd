@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'HSIO DualCam GSG'
+project = 'hsio-dualcam'
 copyright = '2023, Avnet'
-author = 'Tom Curran'
+author = 'Avnet'
 
 release = '0.1'
 version = '0.1.0'
