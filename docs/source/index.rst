@@ -1,23 +1,17 @@
-Welcome to Lumache's documentation!
+Overview
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+The `HSIO Dual Camera Mezzanine <https://avnet.me/dualcam-hsio-module/>`_ is an accessory for the `ZUBoard 1CG <https://avnet.me/zuboard-1cg/>`_ and ships with two IAS camera modules pre-installed. To utilize the out of box image that will demonstrate camera functionality you must mate the camera mezzanine board to an ZUBoard 1CG (not included). For initial setup or if the microSD card has been erased or reprogrammed, then use the instructions included in this tutorial to restore the microSD card to the latest factory image.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
-.. note::
-
-   This project is under active development.
-   Lumache has its documentation hosted on Read the Docs.
 
 Contents
 --------
 
 .. toctree::
+  :maxdepth: 2
 
-   usage
-   api
+  setup
+  sdcard
+  linux_demo
+
