@@ -67,7 +67,7 @@ After the SDcard has been properly imaged, insert the card into your ZUBoard 1CG
 8. Press <ctrl>-c to close the demo window.
 
 Going Further
--------------
+=============
 
 Check out the many projects and application examples posted on Hackster.io that highlight the use of the Avnet DualCam HSIO mezzanine with the ZUBoard 1CG:
 
