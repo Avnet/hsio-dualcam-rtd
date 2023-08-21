@@ -1,7 +1,7 @@
 SDcard Image Instructions
 =========================
 
-The following procedure will write the ZUBoard 1CG 16GB microSD card with the out of box image for the Dual Camera HSIO mezzanine card.
+The following procedure will write the ZUBoard 1CG 16GB microSD card with the out of box image for the Dual Camera HSIO module.
 
 **WARNING This procedure will erase everything on the microSD card, so backup anything important prior to running performing this operation.**
 
